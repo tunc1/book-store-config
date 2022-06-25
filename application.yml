@@ -1,0 +1,3 @@
+log:
+  message:
+    deleted: Deleted {} with id {}
