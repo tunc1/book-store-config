@@ -1,0 +1,4 @@
+log:
+  message:
+    deletedByInventoryId: Deleted stocks with inventoryId {}
+    deletedByBookId: Deleted stocks with bookId {}
